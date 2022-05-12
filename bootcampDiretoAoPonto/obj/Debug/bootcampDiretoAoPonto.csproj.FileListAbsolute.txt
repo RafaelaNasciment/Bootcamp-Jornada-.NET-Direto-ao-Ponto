@@ -1,0 +1,8 @@
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\obj\Debug\bootcampDiretoAoPonto.csproj.AssemblyReference.cache
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\obj\Debug\bootcampDiretoAoPonto.csproj.SuggestedBindingRedirects.cache
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\obj\Debug\bootcampDiretoAoPonto.csproj.CoreCompileInputs.cache
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bin\Debug\bootcampDiretoAoPonto.exe.config
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bin\Debug\bootcampDiretoAoPonto.exe
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bin\Debug\bootcampDiretoAoPonto.pdb
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\obj\Debug\bootcampDiretoAoPonto.exe
+C:\exercicios\bootcampDiretoAoPonto\bootcampDiretoAoPonto\bootcampDiretoAoPonto\obj\Debug\bootcampDiretoAoPonto.pdb
